@@ -2,7 +2,7 @@
 ### SDE Intern @ SISA Information Security | Building AIPRISM (LLM Security)
 
 I am a Software Development Engineer (2026) currently working at **SISA Information Security**. I am part of the engineering team building **AIPRISM**, a cutting-edge **LLM Security product**, where I focus on architecting scalable backend systems and secure AI integrations.
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+
 ---
 
 ### 🛠️ Technical Powerhouse
