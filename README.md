@@ -57,13 +57,6 @@ I am a Software Development Engineer (2026) currently working at **SISA Informat
 
 ---
 
-### 📈 GitHub Analytics
-
-| **Detailed Metrics** | **Tech Stack Usage** |
-| :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sohankalburgi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohankalburgi&layout=compact&theme=radical&langs_count=6" /> |
-
----
 
 ### 📫 Connect with Me
 
