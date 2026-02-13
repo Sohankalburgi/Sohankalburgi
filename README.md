@@ -7,7 +7,7 @@ I am a Software Development Engineer (2026) currently working at **SISA Informat
 
 ### 🛠️ Technical Powerhouse
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,spring,react,nextjs,angular,mongodb,postgres,mysql,aws,azure,docker,kubernetes,jenkins,linux,java,python,cs,ts,js,cpp,tensorflow&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,express,spring,react,nextjs,angular,bootstrap,tailwind,mongodb,postgres,mysql,redis,prisma,nginx,aws,azure,docker,kubernetes,jenkins,linux,github,java,python,cs,ts,js,cpp,tensorflow,postman,vscode,vim&perline=8)](https://skillicons.dev)
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -15,6 +15,7 @@ I am a Software Development Engineer (2026) currently working at **SISA Informat
 | **Product Domain** | **LLM Security (AIPRISM)**, RAG Pipelines, AI Agents, RBAC |
 | **DevOps/Cloud** | AWS (EC2, S3, Lambda), Docker, Nginx, Apache Airflow |
 | **Frontend** | React.js, Angular, Next.js, Tailwind CSS |
+| **AI Framework** | Langchain |
 
 ---
 
